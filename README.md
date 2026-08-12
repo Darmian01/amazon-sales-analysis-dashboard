@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to analyze Amazon sales performan
 
 
 
-![Amazon Sales Analysis Dashboard](amazon-sales-dashboard.png)
+![Amazon Sales Analysis Dashboard](![Amazon Sales Analysis Dashboard](add.png))
 
 ---
 
